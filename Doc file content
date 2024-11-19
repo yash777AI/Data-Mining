@@ -1,0 +1,60 @@
+Project Meeting 1:
+Will focus more on implementing deep learning project mostly in medical data. There are extra points for text recognition (prompt eng can cover text recognition too). 
+Search for research papers based on above topics.
+●	Domain: Medical/Healthcare field
+●	Example Problems: Speech Recognition and Prompt Engineering advancements using Data Mining concepts
+
+Resources:
+
+https://www.medrxiv.org/content/10.1101/2024.04.29.24306583v1
+
+
+Ethan:
+https://link.springer.com/article/10.1186/s40779-021-00338-z 
+(Data mining in clinical big data: the frequently used databases, steps, and methodological models)
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2994932 
+
+https://www.researchgate.net/publication/370899263_A_REVIEW_OF_DATA_MINING_IN_HEALTHCARE 
+
+
+
+●	Goals Throughout project
+○	Short Term
+○	Long Term
+
+
+
+
+
+
+
+ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission 
+Paper- https://arxiv.org/pdf/1904.05342
+Dataset-
+https://huggingface.co/datasets/AGBonnet/augmented-clinical-notes
+Git repo- https://github.com/kexinhuang12345/clinicalBERT/blob/master/README.md
+
+
+
+
+
+Predicting Hospital Readmissions
+https://www.kaggle.com/datasets/dubradave/hospital-readmissions?resource=download
+
+
+
+Report format: 
+1.	History
+2.	Explain about regression
+3.	How prediction working for hospital, business
+4.	Find 3, 4 research paper and summarize them
+5.	Dataset explanation 
+6.	Literature review part
+
+Presentation
+1.	Introduction
+2.	Preprocessing - kajal
+3.	Model- shweta
+4.	Results 
+5.	Future scope - Manoj Karvannan
